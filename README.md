@@ -1,2 +1,4 @@
 # Unlock
-Research, documentation, custom Web UI, and utilities for AirFiber devices.
+This repository is intended strictly for educational, research, and interoperability purposes.No one is responsible for any type of damage.
+
+
