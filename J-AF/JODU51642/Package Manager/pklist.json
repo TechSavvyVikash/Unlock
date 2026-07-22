@@ -14,8 +14,8 @@
         "vpn",
         "networking"
       ],
-      "size": 2578,
-      "url": "https://your-domain.com/packages/tailscale-1.96.1-armv7.zip"
+      "size": 2521,
+      "url": "https://github.com/TechSavvyVikash/Unlock/raw/refs/heads/main/J-AF/JODU51642/Package%20Manager/Packages/tailscale-1.96.1-armv7.zip"
     },
     {
       "name": "adguardhome",
