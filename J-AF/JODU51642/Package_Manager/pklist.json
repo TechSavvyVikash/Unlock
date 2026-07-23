@@ -9,7 +9,7 @@
       "author": "Tailscale Inc.",
       "arch": "ARMv7",
       "icon": "\u25c8",
-      "description": "Mesh VPN. Installs to /data/yadavApp/tailscale/. Downloads from entware during install. Auto-starts after reboot via /etc/init.post_boot.sh.",
+      "description": "Mesh VPN. Installs to /data/yadavApp/tailscale/. Downloads from entware during install. Auto-starts after reboot via tailscaled.service.Web-UI is integrated",
       "tags": [
         "vpn",
         "networking"
