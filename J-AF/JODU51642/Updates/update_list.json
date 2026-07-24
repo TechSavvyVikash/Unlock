@@ -1,0 +1,16 @@
+{
+  "_readme": "yadav_patched Update List — serve this at https://your-domain.com/update_list.json",
+  "_format": "1",
+  "_updated": "2026-07-08",
+  "updates": [
+    {
+      "id": "yadav_patched_v1_1_0",
+      "name": "yadav_patched",
+      "version": "1.1.0",
+      "description": "Adds Package Manager, AdGuard Home page, VPN Dashboard, and Software Upgrade section.",
+      "size": 524288,
+      "url": "https://your-domain.com/updates/yadav_patched-1.1.0.zip",
+      "changelog": "- Added Package Manager (Applications → Package Manager)\n- Added AdGuard Home page with live stats\n- Added VPN Dashboard (gl.iNet style)\n- Added yadav_patched Software Upgrade section\n- Light mode redesign"
+    }
+  ]
+}
