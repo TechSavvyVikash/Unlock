@@ -3,8 +3,9 @@
   "_note": "Add device IMEI + transaction ID here to grant access. This file is private — do not share publicly if you want to control access.",
   "devices": [
     {
-      "imei": "351220041783134",
+      "imei": "351220041783135",
       "txn": "test_DEVICE",
+      "code": "831test35",
       "name": "Vikash Router",
       "date": "2026-07-01",
       "note": "Developer device — always licensed"
