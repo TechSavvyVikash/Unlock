@@ -1,0 +1,13 @@
+{
+  "_readme": "yadav_patched License Registry — host at: https://raw.githubusercontent.com/TechSavvyVikash/Unlock/main/J-AF/JODU51642/license.json",
+  "_note": "Add device IMEI + transaction ID here to grant access. This file is private — do not share publicly if you want to control access.",
+  "devices": [
+    {
+      "imei": "351220041783134",
+      "txn": "OWN_DEVICE",
+      "name": "Vikash Router",
+      "date": "2026-07-01",
+      "note": "Developer device — always licensed"
+    }
+  ]
+}
