@@ -10,5 +10,13 @@
       "date": "2026-07-01",
       "note": "Developer device — always licensed"
     }
+        {
+      "imei": "860588055880655",
+      "txn": "test_DEVICE",
+      "code": "831test36",
+      "name": "Sanchit_Router",
+      "date": "2026-07-01",
+      "note": "Developer device — always licensed"
+    }
   ]
 }
